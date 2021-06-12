@@ -1,1 +1,2 @@
 source version control tool
+github: source code repo(a place where all the developer submit there code)
